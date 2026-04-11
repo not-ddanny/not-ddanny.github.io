@@ -21,7 +21,7 @@ body {
 }
 
 a { color: inherit; text-decoration: none; }
-a:hover { opacity: 0.75; }
+a:hover { opacity: 1; }
 
 .site-shell {
   display: grid;
